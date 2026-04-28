@@ -42,15 +42,15 @@ const Navbar = () => {
   return (
     <>
       <div className="header">
-        <a href="/#" className="navbar-title" data-cursor="disable">
-          Logo
+        <a href="/#" className="navbar-title" data-cursor="disable" style={{ display: 'flex', alignItems: 'center' }}>
+          <span style={{ fontWeight: 'bold', fontSize: '1.2rem', border: '2px solid white', padding: '2px 8px', borderRadius: '4px', letterSpacing: '2px' }}>KD</span>
         </a>
         <a
-          href="mailto:example@mail.com"
+          href="mailto:kusaldey2004@gmail.com"
           className="navbar-connect"
           data-cursor="disable"
         >
-          example@mail.com
+          kusaldey2004@gmail.com
         </a>
         <ul>
           <li>

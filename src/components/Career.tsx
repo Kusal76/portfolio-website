@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Bachelor of Technology (B.Tech) in IT</h4>
+                <h5>Narula Institute of Technology</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023-Present</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Currently studying Information Technology, maintaining a CGPA of 8.94 up to the 5th semester.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Higher Secondary Examination (CBSE)</h4>
+                <h5>Army Public School Barrackpore</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2021-2022</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Completed Higher Secondary education with a score of 80.80%.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Secondary Examination (CBSE)</h4>
+                <h5>Army Public School Barrackpore</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2019-2020</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Completed Secondary education with a score of 91.60%.
             </p>
           </div>
         </div>

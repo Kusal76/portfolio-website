@@ -87,24 +87,32 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>SOFTWARE DEVELOPMENT</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Building scalable and efficient web applications and backend
+                systems utilizing modern frameworks and databases.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">C</div>
+                <div className="what-tags">Java</div>
+                <div className="what-tags">HTML</div>
+                <div className="what-tags">CSS</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">Tailwind CSS</div>
+                <div className="what-tags">ReactJS</div>
+                <div className="what-tags">NodeJS</div>
+                <div className="what-tags">MongoDB</div>
+                <div className="what-tags">Git</div>
+                <div className="what-tags">VS-Code</div>
+                <div className="what-tags">Render</div>
+                <div className="what-tags">Vercel</div>
+                <div className="what-tags">Google Stitch</div>
+                <div className="what-tags">Antigravity</div>
+                <div className="what-tags">Data Structures and Algorithms(DSA)</div>
+                <div className="what-tags">Object Oriented Programming (OOPS)</div>
+                <div className="what-tags">DBMS</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +136,19 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>DATA ANALYTICS & AI</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Applying analytical thinking, statistical modeling, and
+                data-driven techniques to build intelligent, AI-powered solutions.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">Numpy</div>
+                <div className="what-tags">Pandas</div>
+                <div className="what-tags">Seaborn</div>
+                <div className="what-tags">Matplotlib</div>
               </div>
               <div className="what-arrow"></div>
             </div>
